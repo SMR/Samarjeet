@@ -1,0 +1,16 @@
+PODS:
+  - Samarjeet (0.1.0)
+
+DEPENDENCIES:
+  - Samarjeet (from `../`)
+
+EXTERNAL SOURCES:
+  Samarjeet:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Samarjeet: 4d282a1551093bbff6329b42e3c4f07dbfe3a41c
+
+PODFILE CHECKSUM: 28be98169116993a768ae398dc76af078583fbde
+
+COCOAPODS: 1.5.0

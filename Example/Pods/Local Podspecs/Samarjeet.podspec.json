@@ -1,0 +1,22 @@
+{
+  "name": "Samarjeet",
+  "version": "0.1.0",
+  "summary": "A short description of Samarjeet.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Samar/Samarjeet",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Samar": "smr.dubey508@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Samar/Samarjeet.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Samarjeet/Classes/**/*"
+}

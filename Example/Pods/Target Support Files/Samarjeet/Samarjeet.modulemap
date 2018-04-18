@@ -1,0 +1,6 @@
+framework module Samarjeet {
+  umbrella header "Samarjeet-umbrella.h"
+
+  export *
+  module * { export * }
+}
